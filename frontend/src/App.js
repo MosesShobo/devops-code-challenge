@@ -10,7 +10,7 @@ function App() {
     const getId = async () => {
       try {
         const resp = await fetch(API_URL)
-        setSuccessMessage("SUCCESS")
+        setSuccessMessage("SUCCESS, Please check https://github.com/MosesShobo/devops-code-challenge for further detail and setup server")
       }
       catch(e) {
         setFailureMessage(e.message)

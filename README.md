@@ -57,6 +57,8 @@ Create Ec2 instance
 ![Select Free tier](https://github.com/MosesShobo/devops-code-challenge/blob/main/doc/select-free-tier.png)
 
 ### Create Key
+
+![Connect to Ec2 and Verify SSH](https://github.com/MosesShobo/devops-code-challenge/blob/main/doc/Create-key-pair.png)
 ![Connect to Ec2 and Verify SSH](https://github.com/MosesShobo/devops-code-challenge/blob/main/doc/verify-node-via-ssh.png)
 
 

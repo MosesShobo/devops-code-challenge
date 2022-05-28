@@ -90,6 +90,9 @@ npm install
 
 # Process Manager
 
+![Pm2 Process Manager](https://github.com/MosesShobo/devops-code-challenge/blob/main/doc/pm2-processmanager.png)
+
+
 To keep application up and running we need process manager that will keep the app running all the time on remote server
 
 ```shell

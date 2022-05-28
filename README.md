@@ -62,7 +62,7 @@ Create Ec2 instance
 ![Connect to Ec2 and Verify SSH](https://github.com/MosesShobo/devops-code-challenge/blob/main/doc/verify-node-via-ssh.png)
 
 
-### Verify Access
+### Enable HTTP access
 
 ![Update Security group and allow traffic](https://github.com/MosesShobo/devops-code-challenge/blob/main/doc/update-security-group.png)
 

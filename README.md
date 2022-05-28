@@ -68,7 +68,7 @@ Create Ec2 instance
 
 ### Init Data:
 
-![User Data](https://github.com/MosesShobo/devops-code-challenge/blob/main/doc/update-security-group.png)
+![User Data](https://github.com/MosesShobo/devops-code-challenge/blob/main/doc/add-user-data.png)
 
 ```shell
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.34.0/install.sh | bash
